@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HisNameWasBryce. My name is Bryce, I'm from Las Vegas, NV. My dream is to one day work with a team to create the worlds greatest video game! 
+- 👋 Hi, I’m @HisNameWasBryce. My name is Bryce, I'm from Las Vegas, NV and I'm a huge fan of video games. 
 
-- 👀 I’m an avid gamer. Been playing games since I could hold a controller. Video games have always been there for me, its always been my escape from reality when things get a little too stressful. I hope to one day grow my programming skills to a point where I can help work on some of the best video game in the world. Hopefully I can give someone else that same feeling that video games has given me in my life. It'll take a long time, but I'm always growing and trying to become better. 
+- 👀 I've been in the video game industry since 2015. I'm trying to grow my knowledge of programming to expand my base knowledge and to grow as a professional. Check out some of my sample projects if you're interested. 
 
 - 🌱 I’m currently learning C++, I have some experince with python and Javascript as well. 
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HisNameWasBryce. My name is Bryce, I'm from Las Vegas, NV and I'm a huge fan of video games. 
+- 👋 Hi, my name is Bryce, I'm from Las Vegas, NV and I'm a huge fan of video games. 
 
 - 👀 I've been in the video game industry since 2015. I'm trying to grow my knowledge of programming to expand my base knowledge and to grow as a professional. Check out some of my sample projects if you're interested. 
 

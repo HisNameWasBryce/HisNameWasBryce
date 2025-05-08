@@ -14,4 +14,4 @@ I'm a QA Engineer and programmer with 10+ years of experience in the video game 
 
 ## Connect With Me 📫 
 - [LinkedIn](https://www.linkedin.com/in/bryce-fernandez-41262696/)
-- [Email](mailto:bryce.fernandez@myyahoo.com)
+- [Email](mailto:bryce.fernandez@outlook.com)

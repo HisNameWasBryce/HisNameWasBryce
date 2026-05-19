@@ -7,10 +7,6 @@ I'm a computer programmer with over 10 years of experience in the video game ind
 - **Tools:** Unity, Postman, TestRail API, Git, PyTest, Pandas
 - **Domains:** Backend automation, test case validation, game QA, data comparison
 
-## Currently 📍 
-- Pursuing a B.S. in Computer Science at the College of Southern Nevada (4.0 GPA)
-- Building my portfolio and transitioning into a full-time development role
-
-## Connect With Me 📫 
+## Contact
 - [LinkedIn](https://www.linkedin.com/in/bryce-fernandez-41262696/)
 - [Email](mailto:bryce.fernandez@outlook.com)

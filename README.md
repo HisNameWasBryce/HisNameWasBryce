@@ -1,12 +1,11 @@
-# Hi, I'm Bryce Fernandez 👋 
+# Hi, I'm Bryce 
 
-I'm a QA Engineer and programmer with 10+ years of experience in the video game industry, now focused on automation, backend development, and technical testing. I’m passionate about building smarter systems, solving tough problems, and bridging the gap between QA and engineering.
+I'm a computer programmer with over 10 years of experience in the video game industry, now focused on automation, full-stack development, and technical testing. I’m passionate about building elegant systems, solving tough problems, and storytelling through software.
 
-## Tech & Tools I Use 🧰
-- **Languages:** Python, C++, SQL, C#
+## Tech & Tools I Use 
+- **Languages:** Python, C++, SQL, C#, HTML, CSS, JavaScript, Vite, Node.js
 - **Tools:** Unity, Postman, TestRail API, Git, PyTest, Pandas
 - **Domains:** Backend automation, test case validation, game QA, data comparison
-- **Learning:** Front-end web development (HTML, CSS, JavaScript), React, and Vue
 
 ## Currently 📍 
 - Pursuing a B.S. in Computer Science at the College of Southern Nevada (4.0 GPA)
